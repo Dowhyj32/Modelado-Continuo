@@ -1,0 +1,7 @@
+pandas
+numpy
+maplotlib
+seaborn
+jupyter
+ipykernel
+scipy
